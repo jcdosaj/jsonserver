@@ -1,13 +1,13 @@
 {
-    "count": 87, 
-    "next": "https://swapi.co/api/people/?page=2", 
-    "previous": null, 
-    "results": [
-        {
-            "name": "Luke Skywalker", 
-        }, 
-	{
-	    "name": "Bitch",
-	},
-    ]
+"count": 87, 
+"next": "https://swapi.co/api/people/?page=2", 
+"previous": null, 
+"results": [
+  {
+   "name": "Luke Skywalker", 
+  }, 
+  {
+   "name": "Bitch",
+  },
+ ]
 }
