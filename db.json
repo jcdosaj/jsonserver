@@ -1,13 +1,13 @@
 {
-  "results": [
-    {
-      "name": "Luke Skywalker",
-    },
-    {
-      "name": "Darth Vader",
-    },
-    {
-      "name": "Daddy",
-    }
-  ],
-}
+    "results": [
+      {
+        "name": "Luke Skywalker"
+      },
+      {
+        "name": "Darth Vader"
+      },
+      {
+        "name": "Daddy"
+      }
+    ]
+  }
